@@ -1,0 +1,2 @@
+alias lh="ls -alG"
+alias ll="ls -lG"
